@@ -14,7 +14,7 @@ Addition of two numbers 60
 >>> print("Subtraction of two numbers",d)
 Subtraction of two numbers 20
 >>> print("Multipication of two numbers",e)
-Multipication of two numbers 800
+Multiplication of two numbers 800
 >>> print("Division of two numbers",f)
 Division of two numbers 2.0
 >>> print("Modulus of two numbers",g)
